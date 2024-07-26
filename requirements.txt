@@ -1,0 +1,5 @@
+beautifulsoup4
+urllib3
+pandas
+selenium
+webdriver-manager
