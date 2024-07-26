@@ -1,5 +1,8 @@
 # Crawler_ZapVivaQuinto
- 
+
+## **Descrição**
+Crawler_ZapVivaQuinto é um projeto que utiliza web crawlers para extrair informações de apartamentos de aluguel em Belo Horizonte listados nos sites Zap Imóveis, Viva Real e Quinto Andar. O projeto combina a coleta automatizada de dados com algoritmos de inteligência artificial para análise avançada, culminando na apresentação dos resultados em um dashboard interativo.
+
 ## **Funcionalidades**
 - **Web Crawling**: Coleta automatizada de dados de listagens de imóveis dos sites **Zap Imóveis**, **Viva Real** e **Quinto Andar**.
 - **Análise de Dados**: Utilização de algoritmos de **IA** para análise de preços, localização, tendências de mercado e outras métricas relevantes.
